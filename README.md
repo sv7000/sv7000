@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sv7000&column=3&margin-w=15&margin-h=15" alt="sv7000" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sv7000&&theme=flat" alt="sv7000" /></a> </p>
 
 
 <div align="center">
