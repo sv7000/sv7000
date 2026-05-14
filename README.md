@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 # Hello World!, I'm Sumit, a Ninja Developer 👋🏼:
-🛜 currently working on my own [webpage](https://cardfolio-liart.vercel.app/#works)<br>👨🏼‍🎓 studying computer science <br>👨🏼‍💻 working as a web developer since 2023 
+🛜 currently working on AI powered projects<br>👨🏼‍🎓 studying computer science <br>👨🏼‍💻 working as a web developer since 2023 
 
 
 # 💻 Tech Stack:
