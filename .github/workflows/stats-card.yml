@@ -1,0 +1,45 @@
+name: GitHub Stats Card
+
+on:
+  # Rebuild the card daily at 00:30 UTC
+  schedule:
+    - cron: "30 0 * * *"
+  # Allow manual triggering of the workflow
+  workflow_dispatch:
+  # Rebuild when the card script changes
+  push:
+    branches:
+      - main
+    paths:
+      - .github/scripts/stats-card.mjs
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      # Public data only; repos owned by EXCLUDE_OWNERS are left out of every number
+      - name: Build stats card
+        run: node .github/scripts/stats-card.mjs
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          STATS_USER: ${{ github.repository_owner }}
+          STATS_NAME: Sumit Vishwakarma
+          EXCLUDE_OWNERS: mu7ammedkhan
+      # Publish the card to the 'stats' branch (the snake keeps its own 'output' branch)
+      - name: Deploy to Stats Branch
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./dist
+          publish_branch: stats
+          commit_message: "Update stats card [skip ci]"

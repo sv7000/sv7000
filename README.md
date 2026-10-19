@@ -151,7 +151,7 @@ Add real awards here, one per line, for example:
 ### 📈 GitHub activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sv7000&custom_title=Sumit%20Vishwakarma%27s%20GitHub%20stats&show_icons=true&hide_border=true&bg_color=00000000&title_color=6366F1&icon_color=6366F1&text_color=8b949e&rank_icon=github&count_private=true" height="165" alt="GitHub stats" />
+  <img src="https://raw.githubusercontent.com/sv7000/sv7000/stats/stats.svg" height="165" alt="GitHub stats" />
   <img src="https://streak-stats.demolab.com?user=sv7000&hide_border=true&background=00000000&ring=6366F1&fire=6366F1&currStreakLabel=6366F1&currStreakNum=8b949e&sideNums=8b949e&sideLabels=8b949e&dates=8b949e&stroke=8b949e40" height="165" alt="GitHub streak" />
 </p>
 
