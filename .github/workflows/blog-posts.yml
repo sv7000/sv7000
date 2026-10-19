@@ -23,6 +23,6 @@ jobs:
         with:
           feed_list: "https://sumit70.hashnode.dev/rss.xml"
           max_post_count: 5
-          template: "- [$title]($url) <sub>$date</sub>$newline"
+          template: "<li><a href=\"$url\">$title</a> <sub>$date</sub></li>$newline"
           date_format: "mmm d, yyyy"
           commit_message: "Update latest blog posts"
