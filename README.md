@@ -1,34 +1,148 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=190&section=header&text=Sumit%20Vishwakarma&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Full-stack%20developer%20%C2%B7%20India&descSize=18&descAlignY=58&animation=fadeIn" alt="Sumit Vishwakarma" width="100%" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/sv7000">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=6366F1&center=true&vCenter=true&width=560&lines=I+build+fast%2C+clean+web+products.;Next.js+%C2%B7+TypeScript+%C2%B7+Supabase;AI-powered+apps%2C+from+idea+to+launch.;Shipping+to+production+since+2023." alt="Typing intro" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Based%20in-India-6366F1?style=flat-square" alt="Based in India" />
+  <img src="https://img.shields.io/badge/Building%20since-2023-6366F1?style=flat-square" alt="Building since 2023" />
+  <img src="https://komarev.com/ghpvc/?username=sv7000&style=flat-square&color=6366F1&label=Profile%20views" alt="Profile views" />
+</p>
+
+---
+
+### 👋 About me
+
+I'm a full-stack developer who likes taking a product from a blank repo to a live URL. Most days I work in **Next.js, TypeScript and Supabase**, and lately I've been folding AI into the things I build.
+
+- 🚀 **Now:** shipping production web platforms: company and real-estate sites, care and healthcare apps, BI dashboards and HR tools
+- 🤖 **Exploring:** AI features that earn their place, like interview-question generation and match prediction
+- 🎓 **Studying:** computer science
+
+---
+
+### 🛠️ Tech stack
+
+<p align="center"><b>Frontend</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,angular,tailwind,sass,vite,html,css&perline=11" alt="Frontend" />
+</p>
+
+<p align="center"><b>Backend & data</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,java,dotnet,electron,postgres,supabase,prisma,mongodb,firebase&perline=11" alt="Backend and data" />
+</p>
+
+<p align="center"><b>Cloud, tools & design</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vercel,aws,gcp,nginx,githubactions,git,powershell,postman,figma,ps,notion&perline=11" alt="Cloud, tools and design" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude-191919?style=for-the-badge&logo=anthropic&logoColor=D97757" alt="Claude" />
+  <img src="https://img.shields.io/badge/Gemini-191919?style=for-the-badge&logo=googlegemini&logoColor=8E75B2" alt="Gemini" />
+  <img src="https://img.shields.io/badge/v0-191919?style=for-the-badge&logo=vercel&logoColor=white" alt="v0" />
+</p>
+
+---
+
+### ✨ Featured work
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🎙️ Prept</h4>
+      <p>AI mock-interview platform. Book a session, join a live video call and get AI-generated interview questions on the spot.</p>
+      <p><code>Next.js</code> <code>AI</code> <code>Video calls</code></p>
+      <a href="https://prept-nine.vercel.app"><b>Live ↗</b></a> · <a href="https://github.com/sv7000/prept">Code</a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>⚽ TipMaster AI</h4>
+      <p>Explainable football prediction engine with probability simulations and tactical match analysis.</p>
+      <p><code>Next.js</code> <code>TypeScript</code> <code>AI</code></p>
+      <a href="https://tipmaster-ai-match-intelligence.vercel.app"><b>Live ↗</b></a> · <a href="https://github.com/sv7000/tipmaster-ai-match-intelligence">Code</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🩺 PulsePath</h4>
+      <p>Remote patient monitoring. Doctors assign medication and temperature tasks, patients log them, both see progress.</p>
+      <p><code>React</code> <code>TypeScript</code> <code>Postgres</code></p>
+      <a href="https://health-assign.vercel.app"><b>Live ↗</b></a> · <a href="https://github.com/sv7000/HealthAssign">Code</a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>💳 Dodo Checkout</h4>
+      <p>Embeddable checkout that shows customers exactly what they pay for, one-time or recurring, before they enter a card.</p>
+      <p><code>TypeScript</code> <code>Payments</code> <code>UX</code></p>
+      <a href="https://dodo-checkout-ten.vercel.app"><b>Live ↗</b></a> · <a href="https://github.com/sv7000/dodo-checkout">Code</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>📊 Juspay Dashboard</h4>
+      <p>E-commerce analytics dashboard with revenue charts, projections, revenue by location and a light/dark theme.</p>
+      <p><code>React</code> <code>Vite</code> <code>TypeScript</code></p>
+      <a href="https://juspay-dashboard-wine.vercel.app"><b>Live ↗</b></a> · <a href="https://github.com/sv7000/juspay-dashboard">Code</a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🎓 EdTech Redesign</h4>
+      <p>UX/UI case study redesigning a platform that helps doctors prepare for medical exams in France.</p>
+      <p><code>Case study</code> <code>Next.js</code> <code>Figma</code></p>
+      <a href="https://ed-tech-seven-olive.vercel.app"><b>Live ↗</b></a> · <a href="https://github.com/sv7000/EdTech">Code</a>
+    </td>
+  </tr>
+</table>
+
+<p align="center"><a href="https://github.com/sv7000?tab=repositories">See all 60+ repositories →</a></p>
+
+---
+
+### 🏅 GitHub achievements
+
+<table align="center">
+  <tr>
+    <td align="center" width="150">
+      <a href="https://github.com/sv7000?tab=achievements&achievement=pair-extraordinaire"><img src="assets/achievements/pair-extraordinaire-silver.png" width="88" alt="Pair Extraordinaire" /></a><br />
+      <b>Pair Extraordinaire</b><br />
+      <sub>Silver · x3</sub>
+    </td>
+    <td align="center" width="150">
+      <a href="https://github.com/sv7000?tab=achievements&achievement=pull-shark"><img src="assets/achievements/pull-shark-bronze.png" width="88" alt="Pull Shark" /></a><br />
+      <b>Pull Shark</b><br />
+      <sub>Bronze · x2</sub>
+    </td>
+    <td align="center" width="150">
+      <a href="https://github.com/sv7000?tab=achievements&achievement=quickdraw"><img src="assets/achievements/quickdraw-default.png" width="88" alt="Quickdraw" /></a><br />
+      <b>Quickdraw</b><br />
+      <sub>Fast close</sub>
+    </td>
+    <td align="center" width="150">
+      <a href="https://github.com/sv7000?tab=achievements&achievement=yolo"><img src="assets/achievements/yolo-default.png" width="88" alt="YOLO" /></a><br />
+      <b>YOLO</b><br />
+      <sub>Merged without review</sub>
+    </td>
+  </tr>
+</table>
 
 <!--
-**sv7000/sv7000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 🏆 Awards & recognition
+Add real awards here, one per line, for example:
+- 🥇 **Award name**, Organiser · Year: one line on what it was for
 -->
 
-# Hello World!, I'm Sumit, a Ninja Developer 👋🏼:
-🛜 currently working on AI powered projects<br>👨🏼‍🎓 studying computer science <br>👨🏼‍💻 working as a web developer since 2023 
+---
 
+### 📈 GitHub activity
 
-# 💻 Tech Stack:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sv7000&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sv7000&custom_title=Sumit%20Vishwakarma%27s%20GitHub%20stats&show_icons=true&hide_border=true&bg_color=00000000&title_color=6366F1&icon_color=6366F1&text_color=8b949e&rank_icon=github&count_private=true" height="165" alt="GitHub stats" />
+  <img src="https://streak-stats.demolab.com?user=sv7000&hide_border=true&background=00000000&ring=6366F1&fire=6366F1&currStreakLabel=6366F1&currStreakNum=8b949e&sideNums=8b949e&sideLabels=8b949e&dates=8b949e&stroke=8b949e40" height="165" alt="GitHub streak" />
+</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sv7000/sv7000/output/github-snake-dark.svg" />
@@ -36,8 +150,12 @@ Here are some ideas to get you started:
   <img alt="github-snake" src="https://raw.githubusercontent.com/sv7000/sv7000/output/github-snake.svg" />
 </picture>
 
-###
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sv7000&&theme=flat" alt="sv7000" /></a> </p>
+<p align="center">
+  <b>Have an idea worth building?</b> Open an issue on any repo or find me here on GitHub.
+</p>
 
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6366F1&height=110&section=footer" alt="" width="100%" />
+</p>
