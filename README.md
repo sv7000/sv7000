@@ -102,6 +102,16 @@ I'm a full-stack developer who likes taking a product from a blank repo to a liv
 
 ---
 
+### ✍️ Latest from my blog
+
+<!-- BLOG-POST-LIST:START -->
+- [Apache Kafka for Web Developers: Your First Producer and Consumer in Node.js](https://sumit70.hashnode.dev/apache-kafka-for-web-developers-your-first-producer-and-consumer-in-node-js) <sub>Oct 19, 2026</sub>
+<!-- BLOG-POST-LIST:END -->
+
+<p><a href="https://sumit70.hashnode.dev"><img src="https://img.shields.io/badge/Read%20the%20Learn%20Kafka%20series-6366F1?style=for-the-badge&logo=hashnode&logoColor=white" alt="Read the Learn Kafka series on Hashnode" /></a></p>
+
+---
+
 ### 🏅 GitHub achievements
 
 <table align="center">

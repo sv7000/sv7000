@@ -1,0 +1,28 @@
+name: Latest blog posts
+
+on:
+  # Refresh the blog list every 6 hours
+  schedule:
+    - cron: "0 */6 * * *"
+  # Allow manual triggering of the workflow
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+      # Pull the latest posts from Hashnode into the BLOG-POST-LIST block of README.md
+      - name: Update blog posts in README
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://sumit70.hashnode.dev/rss.xml"
+          max_post_count: 5
+          template: "- [$title]($url) <sub>$date</sub>$newline"
+          date_format: "mmm d, yyyy"
+          commit_message: "Update latest blog posts"
