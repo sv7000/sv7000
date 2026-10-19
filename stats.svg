@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" role="img" aria-labelledby="title">
+  <title id="title">Sumit Vishwakarma's GitHub stats</title>
+  <style>
+    .title { font: 600 18px 'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif; fill: #6366F1; }
+    .meta { font: 400 11px 'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif; fill: #8b949e; }
+    .value { font: 700 26px 'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif; fill: #6366F1; }
+    .label { font: 600 12px 'Segoe UI', Ubuntu, 'Helvetica Neue', sans-serif; fill: #8b949e; }
+    .stat { opacity: 0; animation: fadeIn 0.5s ease-out forwards; }
+    @keyframes fadeIn { from { opacity: 0; } to { opacity: 1; } }
+    @media (prefers-reduced-motion: reduce) { .stat { animation: none; opacity: 1; } }
+  </style>
+  <text class="title" x="25" y="34">Sumit Vishwakarma's GitHub stats</text>
+  <text class="meta" x="25" y="54">Public repos only · updated 19 Oct 2026</text>
+  <g class="stat" style="animation-delay:150ms" transform="translate(25 100)">
+    <text class="value">287</text>
+    <text class="label" y="22">Commits</text>
+  </g>
+  <g class="stat" style="animation-delay:270ms" transform="translate(182 100)">
+    <text class="value">20</text>
+    <text class="label" y="22">Pull requests</text>
+  </g>
+  <g class="stat" style="animation-delay:390ms" transform="translate(339 100)">
+    <text class="value">9</text>
+    <text class="label" y="22">Open-source projects</text>
+  </g>
+  <g class="stat" style="animation-delay:510ms" transform="translate(25 158)">
+    <text class="value">40</text>
+    <text class="label" y="22">Public repos</text>
+  </g>
+  <g class="stat" style="animation-delay:630ms" transform="translate(182 158)">
+    <text class="value">1</text>
+    <text class="label" y="22">Stars earned</text>
+  </g>
+  <g class="stat" style="animation-delay:750ms" transform="translate(339 158)">
+    <text class="value">13</text>
+    <text class="label" y="22">Issues</text>
+  </g>
+</svg>
