@@ -10,7 +10,7 @@
     @media (prefers-reduced-motion: reduce) { .stat { animation: none; opacity: 1; } }
   </style>
   <text class="title" x="25" y="34">Sumit Vishwakarma's GitHub stats</text>
-  <text class="meta" x="25" y="54">Public repos only · updated 30 Oct 2026</text>
+  <text class="meta" x="25" y="54">Public repos only · updated 31 Oct 2026</text>
   <g class="stat" style="animation-delay:150ms" transform="translate(25 100)">
     <text class="value">286</text>
     <text class="label" y="22">Commits</text>
